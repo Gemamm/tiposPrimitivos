@@ -17,6 +17,7 @@ public class TiposPrimitivos {
     public static void main(String[] args) {
         
         byte numByte = 5;
+        
         //byte numByte = {byte}129;
         System.out.println("numero byte: "+numByte);
         System.out.println("Valor mínimo del tipo byte es: "+Byte.MIN_VALUE );
